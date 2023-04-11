@@ -15,9 +15,10 @@ public class testacondicional{
             }
             else{
                 System.out.println("Você não tem 18 anos de idade");
+                
             }
         }
-    
+
     }
 
 
